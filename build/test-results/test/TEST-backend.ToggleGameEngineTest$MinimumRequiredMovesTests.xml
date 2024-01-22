@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-01-22T16:46:58" hostname="Omars-MacBook-Air.local" time="0.022">
+  <properties/>
+  <testcase name="[1] 110100000" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.001"/>
+  <testcase name="[2] 111010000" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.001"/>
+  <testcase name="[3] 011001000" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.002"/>
+  <testcase name="[4] 100110100" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.001"/>
+  <testcase name="[5] 010111010" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.001"/>
+  <testcase name="[6] 001011001" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.002"/>
+  <testcase name="[7] 000100110" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.001"/>
+  <testcase name="[8] 000010111" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.0"/>
+  <testcase name="[9] 000001011" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.001"/>
+  <testcase name="Arbitrary target and starting point" classname="backend.ToggleGameEngineTest$MinimumRequiredMovesTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

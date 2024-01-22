@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="backend.ToggleGameEngineTest$BoardStateTests" tests="28" skipped="0" failures="0" errors="0" timestamp="2024-01-22T16:46:58" hostname="Omars-MacBook-Air.local" time="0.049">
+  <properties/>
+  <testcase name="[1] 110100000, 0" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.002"/>
+  <testcase name="[2] 111010000, 1" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[3] 011001000, 2" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.0"/>
+  <testcase name="[4] 100110100, 3" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[5] 010111010, 4" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[6] 001011001, 5" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.0"/>
+  <testcase name="[7] 000100110, 6" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.0"/>
+  <testcase name="[8] 000010111, 7" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[9] 000001011, 8" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[1] 001011111, 0" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.0"/>
+  <testcase name="[2] 000101111, 1" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.0"/>
+  <testcase name="[3] 100110111, 2" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[4] 011001011, 3" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[5] 101000101, 4" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.004"/>
+  <testcase name="[6] 110100110, 5" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[7] 111011001, 6" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[8] 111101000, 7" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[9] 111110100, 8" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[1] 0" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[2] 1" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[3] 2" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[4] 3" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.0"/>
+  <testcase name="[5] 4" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[6] 5" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[7] 6" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[8] 7" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="[9] 8" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <testcase name="Arbitrary button click sequence" classname="backend.ToggleGameEngineTest$BoardStateTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

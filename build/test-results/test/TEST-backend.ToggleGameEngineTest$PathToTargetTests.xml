@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="backend.ToggleGameEngineTest$PathToTargetTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-01-22T16:46:58" hostname="Omars-MacBook-Air.local" time="0.07">
+  <properties/>
+  <testcase name="[1] 110100000, 0" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.039"/>
+  <testcase name="[2] 111010000, 1" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.003"/>
+  <testcase name="[3] 011001000, 2" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.001"/>
+  <testcase name="[4] 100110100, 3" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.001"/>
+  <testcase name="[5] 010111010, 4" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.001"/>
+  <testcase name="[6] 001011001, 5" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.001"/>
+  <testcase name="[7] 000100110, 6" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.001"/>
+  <testcase name="[8] 000010111, 7" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.002"/>
+  <testcase name="[9] 000001011, 8" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.0"/>
+  <testcase name="Arbitrary test requiring 2" classname="backend.ToggleGameEngineTest$PathToTargetTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

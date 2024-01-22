@@ -1,5 +1,5 @@
 # Toggle Game Assignment
-
+# I've only worked on ToggleGameEngine.java everything else belongs to my Professor.
 *An upfront quick note to say that for this assignment you are encouraged to try AI programming assistants ... Github Co-pilot, or OpenAI or other AI coding / language assistants. It's not required and there is no grading associated with trying out an AI coding assistant but you are encouraged to try these technologies if you are inclined. Just add a line to any file that you had support with to indicate where the AI provided assistance e.g.,:*
 
 ```java
@@ -210,4 +210,3 @@ Notes:
 
 Total grade: X / 10
 
-Testing push
